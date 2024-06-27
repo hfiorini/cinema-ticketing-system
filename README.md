@@ -6,9 +6,9 @@
 - java -jar target/cinema-0.0.1-SNAPSHOT.jar
 ```
 
-You can access through this link, in AWS:
+You can access through this [link](http://hgf-cinema-ticketing-service.us-east-1.elasticbeanstalk.com/swagger-ui/index.html), in AWS:
 
-http://hgf-cinema-ticketing-service.us-east-1.elasticbeanstalk.com/swagger-ui/index.html
+
 
 ## Considerations
 
